@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @NiraliLimbad
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently exploring Machine Learning Algorithms
 - I love to code for fun
 - You can contact me through linkedin : https://www.linkedin.com/in/niralilimbad/
 
